@@ -1,7 +1,7 @@
 # COVID-19 SQL Data Exploration
 ![Center for diseases and prevention](https://github.com/jeanbaptistejacq/COVID-19-SQL-Data-Exploration/assets/80902643/28aaf8a7-bb0a-4d15-99cf-93e7153244bc)
 This project focuses on analyzing data related to the COVID-19 pandemic using SQL queries. 
-We will be working with a dataset that provides information about COVID-19 cases, deaths, population, and 
+We will work with a dataset that provides information about COVID-19 cases, deaths, population, and 
 vaccinations across different locations and continents. The main objective is to gain valuable insights and answer important questions about the pandemic.
 ## Content
 
